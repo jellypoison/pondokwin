@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://pondokwin.github.io/sitemap.xml
+Sitemap: https://jellypoison.github.io/pondokwin/sitemap.xml
